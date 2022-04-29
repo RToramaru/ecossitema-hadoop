@@ -1,3 +1,11 @@
-# Criando um ecossitema Hadoop totalmente gerenciado com Google Cloud Platform
+# Ecossitema Hadoop gerenciado com Google Cloud Platform
 
-O desafio consiste em efetuar um processamento de dados utilizando o produto Dataproc do GCP. Esse processamento irá efetuar a contahem das palavras de um livro e informar quantas vezes cada palavra aparece no mesmo.
+Projeto criado junto da DIO para construção de um jogo da memória estilo Genius.
+
+## Rodando o projeto
+
+Execute o arquivo contador.py
+
+## Projeto
+
+O projeto´é um processamento de dados utilizando o produto Dataproc do GCP que irá efetuar a contagem das palavras de um livro e informar quantas vezes cada palavra aparece no mesmo.
